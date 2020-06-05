@@ -7,7 +7,7 @@ var bot = new Discord.Client({
    autorun: true
 });
 
-var VCID = '419001809852694539';
+var VCID = auth.vcid;
 var song = 'John Denver - Take Me Home Country Roads.mp3';
 
 bot.on('ready', function(event) {
