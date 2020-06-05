@@ -1,0 +1,10 @@
+{
+  "name": "John-Denver.ghost",
+  "version": "1.0.0",
+  "description": "Discord bot to play take me home country roads on loop in a channel.",
+  "main": "bot.js",
+  "author": "Lane Sorell",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6"
+  }
+}
